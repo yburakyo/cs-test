@@ -1,7 +1,5 @@
 # cs-test
 
-# Project2 - Selenium Test for Trendyol
-
 This project demonstrates a simple Selenium WebDriver test that interacts with the Trendyol website. The test performs the following actions:
 
 1.  Launches the Chrome browser.
@@ -24,8 +22,8 @@ Ensure the following tools are installed on your system:
 Clone this repository to your local machine:
 
 ```bash
-git clone https://github.com/yourusername/project2.git
-cd project2
+git clone https://github.com/yburakyo/cs-test.git
+cd cs-test
 
 ```
 
